@@ -3,7 +3,7 @@
 Welcome to my page!
 I am Enkhzaya, Full Stack software engineer from Chicago IL. 
 
-### Things I code with
+### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&style=plastic)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white&style=plastic)

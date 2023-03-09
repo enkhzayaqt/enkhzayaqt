@@ -1,4 +1,4 @@
-### Hey! Nice to see you 👋
+![Header](./github-header-image.png)
 
 Welcome to my page!
 I am Enkhzaya, Full Stack software engineer from Chicago IL. 

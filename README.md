@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image_1.png)
 
 Welcome to my page!
 I am Enkhzaya, Full Stack software engineer from Chicago IL. 

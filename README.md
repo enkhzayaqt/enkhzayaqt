@@ -1,4 +1,5 @@
-![Header](./github-header-image_3.png)
+<!-- ![Header](./github-header-image_3.png) -->
+## Hey! Nice to meet you :wave:
 
 Welcome to my page!
 I am Enkhzaya, Full Stack software engineer from Chicago IL. 

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Full Stack software engineer recently graduated coding Bootcamp. 
+
 <!--
 **enkhzayaqt/enkhzayaqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

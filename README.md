@@ -1,5 +1,5 @@
 <!-- ![Header](./github-header-image_3.png) -->
-## :smiley: Hey! Nice to meet you :wave:
+## 😊 Hey! Nice to meet you  👋
 
 Welcome to my page!
 I am Enkhzaya, Full Stack software engineer from Chicago IL. 
